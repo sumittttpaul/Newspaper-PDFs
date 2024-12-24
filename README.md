@@ -2,7 +2,7 @@ Hello, I am Sumeet Kumar Paul and here is a newspaper pdfs finder, so let's get 
 
 ## Newspapers
 
-These script contains following newspapers :-
+This python script retrieves following newspapers :-
 
 ```bash
 1. Economics Times
