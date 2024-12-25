@@ -14,7 +14,7 @@ This python script retrieves following newspapers :-
 
 ## Tech Stack
 
-These portfolio contains following tect stacks :-
+These script contains following tect stacks :-
 
 ```bash
 1. Python
