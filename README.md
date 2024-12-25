@@ -18,11 +18,13 @@ These are all the framework and libraries that has been used to build this proje
 
 ```bash
 1. Python
-2. JSON
-3. Vercel
 ```
 
-## API
+## Functionalities Implemented
 
-It is an API which send a JSON objects as an output.
+These are all the functionalities that has been implemented in this project :-
+
+```bash
+1. Save Newspaper URLs in Latest Newspapers.txt
+```
 
