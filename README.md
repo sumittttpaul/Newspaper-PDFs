@@ -12,3 +12,13 @@ This python script retrieves following newspapers :-
 5. Asian Age
 ```
 
+## Tech Stack
+
+These portfolio contains following tect stacks :-
+
+```bash
+1. Python
+2. JSON
+```
+
+
