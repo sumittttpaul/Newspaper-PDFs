@@ -1,4 +1,4 @@
-Hello, I am Sumeet Kumar Paul and here is a Newspaper PDFs finder, so let's get started.
+Hello, I am Sumeet Kumar Paul and here is a Newspaper PDFs Finder, so let's get started.
 
 ## Getting Started
 
