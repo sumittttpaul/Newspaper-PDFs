@@ -12,13 +12,14 @@ This python script retrieves following newspapers :-
 5. Asian Age
 ```
 
-## TTech and Libraries Used
+## Tech and Libraries Used
 
 These are all the libraries that has been used to build this project :-
 
 ```bash
 1. Python
 2. JSON
+3. Vercel
 ```
 
 ## API
