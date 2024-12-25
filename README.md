@@ -1,6 +1,6 @@
 Hello, I am Sumeet Kumar Paul and here is a newspaper pdfs finder, so let's get started.
 
-## Newspapers
+## Getting Started
 
 This python script retrieves following newspapers :-
 
@@ -12,13 +12,16 @@ This python script retrieves following newspapers :-
 5. Asian Age
 ```
 
-## Tech Stack
+## TTech and Libraries Used
 
-This python script contains following tect stacks :-
+These are all the libraries that has been used to build this project :-
 
 ```bash
 1. Python
 2. JSON
 ```
 
+## API
+
+It is an API which send a JSON objects as an output.
 
