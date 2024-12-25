@@ -14,7 +14,7 @@ This python script retrieves following newspapers :-
 
 ## Tech and Libraries Used
 
-These are all the libraries that has been used to build this project :-
+These are all the framework and libraries that has been used to build this project :-
 
 ```bash
 1. Python
