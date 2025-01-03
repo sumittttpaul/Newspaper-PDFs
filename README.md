@@ -25,6 +25,6 @@ These are all the framework and libraries that has been used to build this proje
 These are all the functionalities that has been implemented in this project :-
 
 ```bash
-1. Save Newspaper URLs in Latest Newspapers.txt
+1. Save Newspaper PDFs link in Latest Newspapers.txt
 ```
 
